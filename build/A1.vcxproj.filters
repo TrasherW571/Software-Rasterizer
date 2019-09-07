@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\stb_image_write.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\src\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA1\A1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A14405B5-DD42-3577-90AE-6712B9D2A4C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{75FBD2C5-1A53-3797-906C-8EA8476F37F4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

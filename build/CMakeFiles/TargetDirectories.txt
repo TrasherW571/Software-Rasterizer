@@ -1,0 +1,3 @@
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/PA1/A1/build/CMakeFiles/A1.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/PA1/A1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/PA1/A1/build/CMakeFiles/ZERO_CHECK.dir
